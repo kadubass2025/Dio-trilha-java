@@ -5,8 +5,7 @@ public class TiposVariaveis {
         long numeroGrande = 10000;
         double salarioDouble = 2000;
         byte idadeByte = 10;
-        final short idadeshort = 10; // O nome final adicionado na variável deixa era constante sem poder alterar o
-                                     // seu valor
+        final short idadeshort = 10;
         boolean verdadeiro = true;
         boolean falso = false;
         char caracter = 'M';
